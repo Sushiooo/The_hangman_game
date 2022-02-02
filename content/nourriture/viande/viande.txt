@@ -1,0 +1,3 @@
+["agneau","biche","boeuf","caille","canard",
+"cheval","chevreuil","dinde","lapin","mouton",
+"pintade","porc","poulet","sanglier","veau"];

@@ -1,0 +1,6 @@
+["Afrotrap","Beatbox","Black metal","Blues","C-pop",
+"Cloud rap","Dance-punk","Deathcore","Disco","Drill",
+"Eurobeat","Eurodisco","Folk","Freestyle","Glitch",
+"Gospel","Hard Rock","Hardbass","Hip-hop","Indie Pop",
+"Jazz","Metal","Rap","RNB","Rock",
+"Zumba","Zouk","Techno","Samba"];

@@ -1,0 +1,9 @@
+["Abricot","Airelle","Amande","Ananas","Avocat",
+"Banane","Cassis","Cerise","Chataigne","Citron",
+"Clementine","Coing","Datte","Figue","Fraise",
+"Fraise des bois","Framboise","Fruitdelapassion","Grenade","Groseille",
+"Kiwi","Litchi","Mandarine","Marron","Melon",
+"Myrtille","Mure","Nectarine","Noisette","Noix",
+"Orange","Pamplemousse","Papaye","Pasteque","Peche",
+"Poire","Pomme","Prune","Quetsche","Raisin",
+"Tomate","Tomate charnue","Tomate Peretti"];
