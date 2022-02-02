@@ -23,4 +23,4 @@
 "Weathering With You","Your Name","A Whisker Away","High-Rise Invasion","The Daily Life of the Immortal King",
 "Isekai Quartet","Boruto","Bleach","Miss Kobayashi Dragon Maid","Demon Lord, Retry !",
 "Bakemonogatari","Black Clover","Soul Eater","Tales of Zestiria The X","Kemono Jihen",
-"Assassins Pride","Goblin Slayer","A Certain Magical Index","The Promised Neverland","Hunter x Hunter",]
+"Assassins Pride","Goblin Slayer","A Certain Magical Index","The Promised Neverland","Hunter x Hunter"]
