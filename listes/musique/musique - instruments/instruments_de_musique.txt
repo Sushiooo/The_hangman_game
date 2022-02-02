@@ -1,0 +1,10 @@
+["accordeon","appeau","banjo","batterie","bawu",
+"biwa","bouteille","carillon","castagnettes","clarinette",
+"clavecin","cloche","contrebasse","cornemuse","cuillers",
+"cymbale","diapason","eoliphone","euphonium","flute","fouet",
+"grosse caisse","guitare","guitare electrique","harmonica","harpe",
+"hochet","jeu de timbre","kacapi","kazoo","klaxon",
+"luth","lyre","orgue","piano","piano a queue",
+"pipeau","planche a laver","saxophone","scie musicale","synthetiseur",
+"tambour","tam-tam","trombone","triangle","trompette",
+"ukulele","violon","xylophone"];
