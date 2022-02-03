@@ -91,7 +91,7 @@ document.querySelector('.word').innerHTML = html;
 document.querySelector('input').addEventListener('change', function() {
 if (this.value !== "" && this.value !== " ") {
 if (this.value.length > 1) {
-if (this.value.length !== word.length) alert('Ta réponse n"a pas la même longueur que le mot donné.');
+if (this.value.length !== word.length) alert('Ta reponse ne possede pas la meme longueur que le mot donne.');
 else if (this.value == word) {
 for (let i = 0; i < word.length; i++) {
 document.querySelector('.word').querySelectorAll('span')[i].innerHTML = word[i];
@@ -127,7 +127,7 @@ let guessedElem = document.querySelector('.guessed').querySelector('span');
 if (guessedElem.innerHTML == '') guessedElem.innerHTML = this.value.toUpperCase();
 else guessedElem.innerHTML += ', ' + this.value.toUpperCase();
 } else fadeColor('#35c435');
-} else alert('Tu as déjà donné cette lettre!');
+} else alert('Tu as deja donné cette lettre!');
 if (currentWord.join('') === word) finish();
 } else alert('Veuillez ne mettre que des lettres');
 this.value = '';
@@ -140,7 +140,7 @@ document.querySelector('.word').querySelectorAll('span')[i].innerHTML = word[i];
 }
 }
 fadeColor('#ff2929');
-alert('You lost!');
+alert('Tu as perdu :<');
 document.querySelector('input').style.display = 'none';
 document.querySelector('button').style.display = null;
 stats.streak = 0;
